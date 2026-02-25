@@ -1,0 +1,3 @@
+# Large files (use cloud storage or Git LFS if needed)
+*.pdf
+.tessdata/
